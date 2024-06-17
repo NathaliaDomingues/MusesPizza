@@ -1,0 +1,45 @@
+
+@media (max-width:768px){
+    
+    body{
+        margin: 0;
+        padding: 0;
+    }
+
+    header nav{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    header img{
+        margin: 10px;
+    }
+
+    h1{
+        font-size: 5pt;
+    }
+
+    nav{
+        width: 100%;
+    }
+
+    .pizzas{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    form{
+        margin-left: 40px;
+    }
+
+
+    ul{
+        display: flex;
+        justify-content: center;
+        flex-direction: column ;
+        width: 0.2em;
+    }
+
+}
